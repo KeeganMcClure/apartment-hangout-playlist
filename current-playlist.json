@@ -1,18 +1,1205 @@
-
 {
   "title": "Apartment Hangout",
   "tracklist": [
     {
-      "title": "The Great Pumpkin Waltz",
-      "artists": ["Vince Guaraldi Trio"]
+      "title": "Can't You Hear Me Knocking",
+      "artists": [
+        "The Rolling Stones"
+      ]
     },
     {
-      "title": "Alaska",
-      "artists": ["Maggie Rogers"]
+      "title": "Rhiannon",
+      "artists": [
+        "Fleetwood Mac"
+      ]
+    },
+    {
+      "title": "Eye",
+      "artists": [
+        "The Smashing Pumpkins"
+      ]
+    },
+    {
+      "title": "Long as I Can See the Light",
+      "artists": [
+        "Creedence Clearwater Revival"
+      ]
+    },
+    {
+      "title": "Burnin' for You",
+      "artists": [
+        "Blue Öyster Cult"
+      ]
+    },
+    {
+      "title": "Edward 40hands",
+      "artists": [
+        "Mom Jeans."
+      ]
+    },
+    {
+      "title": "Bela Lugosi's Dead",
+      "artists": [
+        "Bauhaus"
+      ]
+    },
+    {
+      "title": "Murder at the Bingo Hall",
+      "artists": [
+        "Amigo the Devil"
+      ]
+    },
+    {
+      "title": "Appointments",
+      "artists": [
+        "Julien Baker"
+      ]
+    },
+    {
+      "title": "All Apologies",
+      "artists": [
+        "Nirvana"
+      ]
+    },
+    {
+      "title": "Charlie Brown Theme / Happy Linus",
+      "artists": [
+        "Vince Guaraldi Trio"
+      ]
+    },
+    {
+      "title": "Little Ghost",
+      "artists": [
+        "The White Stripes"
+      ]
+    },
+    {
+      "title": "Linger",
+      "artists": [
+        "The Cranberries"
+      ]
+    },
+    {
+      "title": "Caitlyn",
+      "artists": [
+        "Jank"
+      ]
+    },
+    {
+      "title": "The Mask (feat. Ghostface Killah)",
+      "artists": [
+        "MF DOOM"
+      ]
+    },
+    {
+      "title": "Never Going Back Again",
+      "artists": [
+        "Fleetwood Mac"
+      ]
+    },
+    {
+      "title": "Say It Ain't So",
+      "artists": [
+        "Weezer"
+      ]
+    },
+    {
+      "title": "Linus and Lucy",
+      "artists": [
+        "Vince Guaraldi Trio"
+      ]
+    },
+    {
+      "title": "Good News",
+      "artists": [
+        "Mac Miller"
+      ]
+    },
+    {
+      "title": "Dani California",
+      "artists": [
+        "Red Hot Chili Peppers"
+      ]
+    },
+    {
+      "title": "Come As You Are",
+      "artists": [
+        "Nirvana"
+      ]
+    },
+    {
+      "title": "1979",
+      "artists": [
+        "The Smashing Pumpkins"
+      ]
+    },
+    {
+      "title": "Sleeping on the Blacktop",
+      "artists": [
+        "Colter Wall"
+      ]
+    },
+    {
+      "title": "2009",
+      "artists": [
+        "Mac Miller"
+      ]
+    },
+    {
+      "title": "A Forest",
+      "artists": [
+        "The Cure"
+      ]
+    },
+    {
+      "title": "Rapp Snitch Knishes",
+      "artists": [
+        "MF DOOM"
+      ]
+    },
+    {
+      "title": "Alrighty Aphrodite",
+      "artists": [
+        "Peach Pit"
+      ]
+    },
+    {
+      "title": "Green River",
+      "artists": [
+        "Creedence Clearwater Revival"
+      ]
+    },
+    {
+      "title": "Caroline",
+      "artists": [
+        "Aminé"
+      ]
+    },
+    {
+      "title": "Something in the Way",
+      "artists": [
+        "Nirvana"
+      ]
+    },
+    {
+      "title": "93 'Til Infinity",
+      "artists": [
+        "Souls of Mischief"
+      ]
+    },
+    {
+      "title": "Twin Size Mattress",
+      "artists": [
+        "The Front Bottoms"
+      ]
+    },
+    {
+      "title": "Potatoes and Molasses",
+      "artists": [
+        "The Blasting Company"
+      ]
+    },
+    {
+      "title": "Roddy",
+      "artists": [
+        "Djo"
+      ]
+    },
+    {
+      "title": "Today",
+      "artists": [
+        "The Smashing Pumpkins"
+      ]
+    },
+    {
+      "title": "Runnin'",
+      "artists": [
+        "The Pharcyde"
+      ]
+    },
+    {
+      "title": "The Man Comes Around",
+      "artists": [
+        "Johnny Cash"
+      ]
+    },
+    {
+      "title": "Follow You to Virgie",
+      "artists": [
+        "Tyler Childers"
+      ]
+    },
+    {
+      "title": "Go Your Own Way",
+      "artists": [
+        "Fleetwood Mac"
+      ]
+    },
+    {
+      "title": "I Hope You're Doing Well",
+      "artists": [
+        "Panucci's Pizza"
+      ]
+    },
+    {
+      "title": "Feel Good Inc.",
+      "artists": [
+        "Gorillaz"
+      ]
+    },
+    {
+      "title": "What I Got",
+      "artists": [
+        "Sublime"
+      ]
+    },
+    {
+      "title": "Paint It, Black",
+      "artists": [
+        "The Rolling Stones"
+      ]
+    },
+    {
+      "title": "Woods",
+      "artists": [
+        "Mac Miller"
+      ]
+    },
+    {
+      "title": "Funny You Should Ask",
+      "artists": [
+        "The Front Bottoms"
+      ]
+    },
+    {
+      "title": "Move",
+      "artists": [
+        "Saint Motel"
+      ]
+    },
+    {
+      "title": "Tumbling Dice",
+      "artists": [
+        "The Rolling Stones"
+      ]
     },
     {
       "title": "Island in the Sun",
-      "artists": ["Weezer"]
+      "artists": [
+        "Weezer"
+      ]
+    },
+    {
+      "title": "Everywhere",
+      "artists": [
+        "Fleetwood Mac"
+      ]
+    },
+    {
+      "title": "Feathered Indians",
+      "artists": [
+        "Tyler Childers"
+      ]
+    },
+    {
+      "title": "Death Cup",
+      "artists": [
+        "Mom Jeans."
+      ]
+    },
+    {
+      "title": "Codeine",
+      "artists": [
+        "Trampled by Turtles"
+      ]
+    },
+    {
+      "title": "Don't Tip the Delivery Boy",
+      "artists": [
+        "Panucci's Pizza"
+      ]
+    },
+    {
+      "title": "Let It Bleed",
+      "artists": [
+        "The Rolling Stones"
+      ]
+    },
+    {
+      "title": "Northern Attitude",
+      "artists": [
+        "Noah Kahan"
+      ]
+    },
+    {
+      "title": "Patient Is the Night",
+      "artists": [
+        "The Blasting Company"
+      ]
+    },
+    {
+      "title": "Graveyard Theme",
+      "artists": [
+        "Vince Guaraldi Trio"
+      ]
+    },
+    {
+      "title": "A Good Song Never Dies",
+      "artists": [
+        "Saint Motel"
+      ]
+    },
+    {
+      "title": "Blue Eyes Crying in the Rain",
+      "artists": [
+        "Willie Nelson"
+      ]
+    },
+    {
+      "title": "Red Right Hand",
+      "artists": [
+        "Nick Cave & The Bad Seeds"
+      ]
+    },
+    {
+      "title": "Santeria",
+      "artists": [
+        "Sublime"
+      ]
+    },
+    {
+      "title": "(Don't Fear) The Reaper",
+      "artists": [
+        "Blue Öyster Cult"
+      ]
+    },
+    {
+      "title": "Folsom Prison Blues",
+      "artists": [
+        "Johnny Cash"
+      ]
+    },
+    {
+      "title": "The Chain",
+      "artists": [
+        "Fleetwood Mac"
+      ]
+    },
+    {
+      "title": "Halloween Halftime",
+      "artists": [
+        "The Blasting Company"
+      ]
+    },
+    {
+      "title": "Objects in the Mirror",
+      "artists": [
+        "Mac Miller"
+      ]
+    },
+    {
+      "title": "Flashlight",
+      "artists": [
+        "The Front Bottoms"
+      ]
+    },
+    {
+      "title": "Peach",
+      "artists": [
+        "Kevin Abstract"
+      ]
+    },
+    {
+      "title": "Meat Grinder",
+      "artists": [
+        "MF DOOM"
+      ]
+    },
+    {
+      "title": "Heart-Shaped Box",
+      "artists": [
+        "Nirvana"
+      ]
+    },
+    {
+      "title": "Cocaine Jesus",
+      "artists": [
+        "Rainbow Kitten Surprise"
+      ]
+    },
+    {
+      "title": "Come Wayward Souls",
+      "artists": [
+        "The Blasting Company"
+      ]
+    },
+    {
+      "title": "Alone",
+      "artists": [
+        "Trampled by Turtles"
+      ]
+    },
+    {
+      "title": "Rich Girl",
+      "artists": [
+        "Daryl Hall & John Oates"
+      ]
+    },
+    {
+      "title": "Orange Juice",
+      "artists": [
+        "Noah Kahan"
+      ]
+    },
+    {
+      "title": "Sunflower",
+      "artists": [
+        "Post Malone"
+      ]
+    },
+    {
+      "title": "Night Shift",
+      "artists": [
+        "Lucy Dacus"
+      ]
+    },
+    {
+      "title": "Feel Blessed",
+      "artists": [
+        "JoDolo"
+      ]
+    },
+    {
+      "title": "Au Revoir (Adios)",
+      "artists": [
+        "The Front Bottoms"
+      ]
+    },
+    {
+      "title": "Trick or Treat",
+      "artists": [
+        "Vince Guaraldi Trio"
+      ]
+    },
+    {
+      "title": "Hurt",
+      "artists": [
+        "Johnny Cash"
+      ]
+    },
+    {
+      "title": "Dreams",
+      "artists": [
+        "Fleetwood Mac"
+      ]
+    },
+    {
+      "title": "White Iverson",
+      "artists": [
+        "Post Malone"
+      ]
+    },
+    {
+      "title": "Astronomy",
+      "artists": [
+        "Blue Öyster Cult"
+      ]
+    },
+    {
+      "title": "Disarm",
+      "artists": [
+        "The Smashing Pumpkins"
+      ]
+    },
+    {
+      "title": "Deep Fried Frenz",
+      "artists": [
+        "MF DOOM"
+      ]
+    },
+    {
+      "title": "Doin' Time",
+      "artists": [
+        "Sublime"
+      ]
+    },
+    {
+      "title": "About a Girl",
+      "artists": [
+        "Nirvana"
+      ]
+    },
+    {
+      "title": "Scott Pilgrim V. My GPA",
+      "artists": [
+        "Mom Jeans."
+      ]
+    },
+    {
+      "title": "Buddy Holly",
+      "artists": [
+        "Weezer"
+      ]
+    },
+    {
+      "title": "Devil Like Me",
+      "artists": [
+        "Rainbow Kitten Surprise"
+      ]
+    },
+    {
+      "title": "Dreams",
+      "artists": [
+        "The Cranberries"
+      ]
+    },
+    {
+      "title": "Peach",
+      "artists": [
+        "The Front Bottoms"
+      ]
+    },
+    {
+      "title": "Lola",
+      "artists": [
+        "The Kinks"
+      ]
+    },
+    {
+      "title": "Alaska",
+      "artists": [
+        "Maggie Rogers"
+      ]
+    },
+    {
+      "title": "My Type",
+      "artists": [
+        "Saint Motel"
+      ]
+    },
+    {
+      "title": "Dead Man's Party",
+      "artists": [
+        "Oingo Boingo"
+      ]
+    },
+    {
+      "title": "Stressed Out",
+      "artists": [
+        "Twenty One Pilots"
+      ]
+    },
+    {
+      "title": "Circles",
+      "artists": [
+        "Post Malone"
+      ]
+    },
+    {
+      "title": "Pennyroyal Tea",
+      "artists": [
+        "Nirvana"
+      ]
+    },
+    {
+      "title": "Then Came the Last Days of May",
+      "artists": [
+        "Blue Öyster Cult"
+      ]
+    },
+    {
+      "title": "Life Goes On",
+      "artists": [
+        "Oliver Tree"
+      ]
+    },
+    {
+      "title": "People Are Strange",
+      "artists": [
+        "The Doors"
+      ]
+    },
+    {
+      "title": "Figaro",
+      "artists": [
+        "MF DOOM"
+      ]
+    },
+    {
+      "title": "Homesick",
+      "artists": [
+        "Noah Kahan"
+      ]
+    },
+    {
+      "title": "End of Beginning",
+      "artists": [
+        "Djo"
+      ]
+    },
+    {
+      "title": "What's Up?",
+      "artists": [
+        "Mom Jeans."
+      ]
+    },
+    {
+      "title": "Tick, Tick... (feat. MF Grimm)",
+      "artists": [
+        "MF DOOM"
+      ]
+    },
+    {
+      "title": "Not Strong Enough",
+      "artists": [
+        "boygenius"
+      ]
+    },
+    {
+      "title": "The Highwayman",
+      "artists": [
+        "The Blasting Company"
+      ]
+    },
+    {
+      "title": "Naruto Themed Sexting",
+      "artists": [
+        "Panucci's Pizza"
+      ]
+    },
+    {
+      "title": "Any Major Dude Will Tell You",
+      "artists": [
+        "Steely Dan"
+      ]
+    },
+    {
+      "title": "They Reminisce Over You (T.R.O.Y.)",
+      "artists": [
+        "Pete Rock & C.L. Smooth"
+      ]
+    },
+    {
+      "title": "Girl Scout Cookies",
+      "artists": [
+        "Mom Jeans."
+      ]
+    },
+    {
+      "title": "Into the Unknown",
+      "artists": [
+        "The Blasting Company"
+      ]
+    },
+    {
+      "title": "Dirty Work",
+      "artists": [
+        "Steely Dan"
+      ]
+    },
+    {
+      "title": "Lookin' Out My Back Door",
+      "artists": [
+        "Creedence Clearwater Revival"
+      ]
+    },
+    {
+      "title": "Fever Pitch",
+      "artists": [
+        "Rainbow Kitten Surprise"
+      ]
+    },
+    {
+      "title": "Landslide",
+      "artists": [
+        "Fleetwood Mac"
+      ]
+    },
+    {
+      "title": "Doomsday",
+      "artists": [
+        "MF DOOM"
+      ]
+    },
+    {
+      "title": "Road Trippin'",
+      "artists": [
+        "Red Hot Chili Peppers"
+      ]
+    },
+    {
+      "title": "The Darkness and the Light",
+      "artists": [
+        "Trampled by Turtles"
+      ]
+    },
+    {
+      "title": "Badfish",
+      "artists": [
+        "Sublime"
+      ]
+    },
+    {
+      "title": "Shampoo Bottles",
+      "artists": [
+        "Peach Pit"
+      ]
+    },
+    {
+      "title": "Otherside",
+      "artists": [
+        "Red Hot Chili Peppers"
+      ]
+    },
+    {
+      "title": "Rebirth of Slick (Cool Like Dat)",
+      "artists": [
+        "Digable Planets"
+      ]
+    },
+    {
+      "title": "Peach Fuzz",
+      "artists": [
+        "Caamp"
+      ]
+    },
+    {
+      "title": "The Finest (feat. Tommy Gunn)",
+      "artists": [
+        "MF DOOM"
+      ]
+    },
+    {
+      "title": "Lithium",
+      "artists": [
+        "Nirvana"
+      ]
+    },
+    {
+      "title": "Run Through the Jungle",
+      "artists": [
+        "Creedence Clearwater Revival"
+      ]
+    },
+    {
+      "title": "Garden Grove",
+      "artists": [
+        "Sublime"
+      ]
+    },
+    {
+      "title": "Chateau (Feel Alright)",
+      "artists": [
+        "Djo"
+      ]
+    },
+    {
+      "title": "Electric Relaxation",
+      "artists": [
+        "A Tribe Called Quest"
+      ]
+    },
+    {
+      "title": "Scar Tissue",
+      "artists": [
+        "Red Hot Chili Peppers"
+      ]
+    },
+    {
+      "title": "Mayonaise",
+      "artists": [
+        "The Smashing Pumpkins"
+      ]
+    },
+    {
+      "title": "Read My Mind",
+      "artists": [
+        "The Killers"
+      ]
+    },
+    {
+      "title": "Beast of Burden",
+      "artists": [
+        "The Rolling Stones"
+      ]
+    },
+    {
+      "title": "Zombie",
+      "artists": [
+        "The Cranberries"
+      ]
+    },
+    {
+      "title": "Home at Last",
+      "artists": [
+        "Steely Dan"
+      ]
+    },
+    {
+      "title": "The Great Pumpkin Waltz",
+      "artists": [
+        "Vince Guaraldi Trio"
+      ]
+    },
+    {
+      "title": "Stick Season",
+      "artists": [
+        "Noah Kahan"
+      ]
+    },
+    {
+      "title": "Accordion",
+      "artists": [
+        "MF DOOM"
+      ]
+    },
+    {
+      "title": "Babydoll",
+      "artists": [
+        "Dominic Fike"
+      ]
+    },
+    {
+      "title": "Where Did You Sleep Last Night",
+      "artists": [
+        "Nirvana"
+      ]
+    },
+    {
+      "title": "Lady May",
+      "artists": [
+        "Tyler Childers"
+      ]
+    },
+    {
+      "title": "This Charming Man",
+      "artists": [
+        "The Smiths"
+      ]
+    },
+    {
+      "title": "Goo Goo Muck",
+      "artists": [
+        "The Cramps"
+      ]
+    },
+    {
+      "title": "All Caps",
+      "artists": [
+        "MF DOOM"
+      ]
+    },
+    {
+      "title": "A Courting Song",
+      "artists": [
+        "The Blasting Company"
+      ]
+    },
+    {
+      "title": "In Your Love",
+      "artists": [
+        "Tyler Childers"
+      ]
+    },
+    {
+      "title": "Californication",
+      "artists": [
+        "Red Hot Chili Peppers"
+      ]
+    },
+    {
+      "title": "On Melancholy Hill",
+      "artists": [
+        "Gorillaz"
+      ]
+    },
+    {
+      "title": "Have You Ever Seen the Rain",
+      "artists": [
+        "Creedence Clearwater Revival"
+      ]
+    },
+    {
+      "title": "On a Plain",
+      "artists": [
+        "Nirvana"
+      ]
+    },
+    {
+      "title": "Kilby Girl",
+      "artists": [
+        "The Backseat Lovers"
+      ]
+    },
+    {
+      "title": "Bitter Sweet Symphony",
+      "artists": [
+        "The Verve"
+      ]
+    },
+    {
+      "title": "Gimme Shelter",
+      "artists": [
+        "The Rolling Stones"
+      ]
+    },
+    {
+      "title": "Old Black Train",
+      "artists": [
+        "The Blasting Company"
+      ]
+    },
+    {
+      "title": "Shake the Frost",
+      "artists": [
+        "Tyler Childers"
+      ]
+    },
+    {
+      "title": "Wagon Wheel",
+      "artists": [
+        "Darius Rucker"
+      ]
+    },
+    {
+      "title": "Human Fly",
+      "artists": [
+        "The Cramps"
+      ]
+    },
+    {
+      "title": "One Beer",
+      "artists": [
+        "MF DOOM"
+      ]
+    },
+    {
+      "title": "What's the Use?",
+      "artists": [
+        "Mac Miller"
+      ]
+    },
+    {
+      "title": "Goodie Bag",
+      "artists": [
+        "Still Woozy"
+      ]
+    },
+    {
+      "title": "Cocaine and Abel",
+      "artists": [
+        "Amigo the Devil"
+      ]
+    },
+    {
+      "title": "Werewolves of London",
+      "artists": [
+        "Warren Zevon"
+      ]
+    },
+    {
+      "title": "All My Love",
+      "artists": [
+        "Noah Kahan"
+      ]
+    },
+    {
+      "title": "Baby Blue (feat. Chance the Rapper)",
+      "artists": [
+        "Action Bronson"
+      ]
+    },
+    {
+      "title": "Fancy Clown",
+      "artists": [
+        "MF DOOM"
+      ]
+    },
+    {
+      "title": "Pottsfield C.M.",
+      "artists": [
+        "The Blasting Company"
+      ]
+    },
+    {
+      "title": "Without Me",
+      "artists": [
+        "Eminem"
+      ]
+    },
+    {
+      "title": "Hell and You",
+      "artists": [
+        "Amigo the Devil"
+      ]
+    },
+    {
+      "title": "Deacon Blues",
+      "artists": [
+        "Steely Dan"
+      ]
+    },
+    {
+      "title": "In Bloom",
+      "artists": [
+        "Nirvana"
+      ]
+    },
+    {
+      "title": "That's That",
+      "artists": [
+        "MF DOOM"
+      ]
+    },
+    {
+      "title": "There Is a Light That Never Goes Out",
+      "artists": [
+        "The Smiths"
+      ]
+    },
+    {
+      "title": "Silver Springs",
+      "artists": [
+        "Fleetwood Mac"
+      ]
+    },
+    {
+      "title": "Awkward Pop Songs",
+      "artists": [
+        "Jank"
+      ]
+    },
+    {
+      "title": "Wait So Long",
+      "artists": [
+        "Trampled by Turtles"
+      ]
+    },
+    {
+      "title": "Whitehouse Road",
+      "artists": [
+        "Tyler Childers"
+      ]
+    },
+    {
+      "title": "Halloween",
+      "artists": [
+        "The Misfits"
+      ]
+    },
+    {
+      "title": "Half-Moon River",
+      "artists": [
+        "The Blasting Company"
+      ]
+    },
+    {
+      "title": "A Milli",
+      "artists": [
+        "Lil Wayne"
+      ]
+    },
+    {
+      "title": "Rhymes Like Dimes",
+      "artists": [
+        "MF DOOM"
+      ]
+    },
+    {
+      "title": "Mr. Brightside",
+      "artists": [
+        "The Killers"
+      ]
+    },
+    {
+      "title": "Motion Sickness",
+      "artists": [
+        "Phoebe Bridgers"
+      ]
+    },
+    {
+      "title": "The Beast Is Out There",
+      "artists": [
+        "The Blasting Company"
+      ]
+    },
+    {
+      "title": "Aja",
+      "artists": [
+        "Steely Dan"
+      ]
+    },
+    {
+      "title": "Soul to Squeeze",
+      "artists": [
+        "Red Hot Chili Peppers"
+      ]
+    },
+    {
+      "title": "Heaven Knows I'm Miserable Now",
+      "artists": [
+        "The Smiths"
+      ]
+    },
+    {
+      "title": "Can I Kick It?",
+      "artists": [
+        "A Tribe Called Quest"
+      ]
+    },
+    {
+      "title": "Eye Know",
+      "artists": [
+        "De La Soul"
+      ]
+    },
+    {
+      "title": "Sympathy for the Devil",
+      "artists": [
+        "The Rolling Stones"
+      ]
+    },
+    {
+      "title": "Passionfruit",
+      "artists": [
+        "Drake"
+      ]
+    },
+    {
+      "title": "Ms. Langtree's Lament",
+      "artists": [
+        "The Blasting Company"
+      ]
+    },
+    {
+      "title": "I Put a Spell on You",
+      "artists": [
+        "Screamin' Jay Hawkins"
+      ]
+    },
+    {
+      "title": "Red and Gold",
+      "artists": [
+        "MF DOOM"
+      ]
+    },
+    {
+      "title": "Wut I Liek Abt U",
+      "artists": [
+        "Jank"
+      ]
+    },
+    {
+      "title": "Bad Moon Rising",
+      "artists": [
+        "Creedence Clearwater Revival"
+      ]
+    },
+    {
+      "title": "Hey!",
+      "artists": [
+        "MF DOOM"
+      ]
     }
   ]
 }
